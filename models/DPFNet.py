@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from .torch_wavelets import DWT, IDWT
-from .SFFB import *
+from .Fourier_T import *
 from .Attention import SelfAttention
 
 
