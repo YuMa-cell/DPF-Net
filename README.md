@@ -12,11 +12,18 @@ Underwater images often suffer from color distortion, low contrast, haze-like de
 The network first decomposes features into low-frequency and high-frequency components using DWT. The low-frequency path focuses on global color and illumination restoration, while the high-frequency path enhances structural details and textures. During decoding, WaveUp performs cross-frequency interaction and fusion to reconstruct high-quality enhanced images.
 
 
+
 @article{ma2026dpfnet,
+
   title={Underwater Image Enhancement Via Dual-Path Frequency-Domain Fusion Network},
+  
   author={Ma, Yupeng and Yang, Qiuling and Zhu, Rongxin and Li, Yifei and Abdel Wahab, Magd M.},
+  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  
   year={2026},
+  
   doi={10.1109/TCSVT.2026.3676253}
+  
 }
 
